@@ -1,11 +1,15 @@
 
 
-Travaux liés à la Note de Synthèse - Candidature au corps des Insed
+Travaux adossés à la Note de Synthèse - Candidature au corps des Insed
 
 Ce dépôt Git permet de contourner la limite de 5 Mo imposée par le site de candidature. Il rassemble les supports techniques et les travaux de recherche mentionnés dans ma NOTE DE SYNTHESE. 
-Seul le projet "LabQuakes" mentionné en premier dans la note, ne contient pas de support technique, puisque il n'a donné lieu qu'à une soutenance orale. 
 
 Le nom des travaux est précédé d'un numéro, qui correspond à son apparition chronologique dans la note de synthèse.
 
-Bien que le dossier Gentrification_et_vote_electoral résume les points techniques abordés dans la note dans un unique PDF, un lien vers le dépôt Git complet du projet est également disponible à l'adresse du Git de ma camarade: https://github.com/isa-j/Python-project 
+Seul le projet "LabQuakes" mentionné en premier dans la note ne contient pas de support technique, puisque il n'a donné lieu qu'à une soutenance orale. La présentation PowerPoint est néanmoins fournie à titre indicatif 
+
+
+Bien que le dossier Gentrification_et_vote_electoral résume les points techniques abordés dans la note dans un unique PDF, un lien vers 
+le dépôt Git complet du projet est également disponible à l'adresse du Git de ma camarade: https://github.com/isa-j/Python-project 
+
 Le code y est entièrement réplicable! 
