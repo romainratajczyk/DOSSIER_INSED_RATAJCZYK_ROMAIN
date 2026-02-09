@@ -1,0 +1,4 @@
+Ce dossier est associé à mon projet de stage de trois mois de l'été dernier, réalisé à Berlin. Il comprend:  
+
+- mon rapport de stage, présentant les résultats de mon étude des transitions de phase d'un système de spins frustrés sur réseau triangulaire; 
+- le code principal de mon algorithme Monte-Carlo utilisé pour mes simulations, en C++.
